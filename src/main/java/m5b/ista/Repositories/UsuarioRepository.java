@@ -11,3 +11,4 @@ public interface UsuarioRepository extends JpaRepository<usuario,Long>{
     usuario IniciarSesion(String nombre, String clave);
     
 }
+//cambios
